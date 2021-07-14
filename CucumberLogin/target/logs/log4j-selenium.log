@@ -1,0 +1,666 @@
+2021-07-08 01:26:56 INFO  Steps:40 - moveToMouse .
+2021-07-08 01:28:26 INFO  Steps:40 - User opens URL 'https://www.amazon.com' .
+2021-07-08 01:29:25 INFO  Steps:29 - User Launch Chrome browser .
+2021-07-08 01:29:25 INFO  Steps:40 - User opens URL 'https://www.amazon.com' .
+2021-07-08 01:32:37 INFO  Steps:29 - User Launch Chrome browser .
+2021-07-08 01:32:37 INFO  Steps:40 - User opens URL 'https://www.amazon.com' .
+2021-07-08 01:32:39 INFO  LoginPage:39 - moveToMouse .
+2021-07-08 15:42:59 INFO  Steps:29 - User Launch Chrome browser .
+2021-07-08 15:42:59 INFO  Steps:40 - User opens URL 'https://www.amazon.com' .
+2021-07-08 15:43:02 INFO  LoginPage:40 - moveToMouse .
+2021-07-08 15:47:23 INFO  Steps:29 - User Launch Chrome browser .
+2021-07-08 15:47:23 INFO  Steps:40 - User opens URL 'https://www.amazon.com' .
+2021-07-08 15:51:34 INFO  Steps:29 - User Launch Chrome browser .
+2021-07-08 15:51:34 INFO  Steps:40 - User opens URL 'https://www.amazon.com' .
+2021-07-08 15:53:58 INFO  Steps:29 - User Launch Chrome browser .
+2021-07-08 15:53:58 INFO  Steps:40 - User opens URL 'https://www.amazon.com' .
+2021-07-08 15:54:00 INFO  LoginPage:39 - moveToMouse .
+2021-07-08 19:42:48 INFO  Steps:29 - User Launch Chrome browser .
+2021-07-08 19:42:48 INFO  Steps:40 - User opens URL 'https://www.amazon.com' .
+2021-07-08 19:42:50 INFO  LoginPage:39 - moveToMouse .
+2021-07-08 19:54:52 INFO  Steps:29 - User Launch Chrome browser .
+2021-07-08 19:54:52 INFO  Steps:40 - User opens URL 'https://www.amazon.com' .
+2021-07-08 19:57:14 INFO  Steps:30 - User Launch Chrome browser .
+2021-07-08 19:57:14 INFO  Steps:41 - User opens URL 'https://www.amazon.com' .
+2021-07-08 19:59:26 INFO  Steps:30 - User Launch Chrome browser .
+2021-07-08 19:59:26 INFO  Steps:41 - User opens URL 'https://www.amazon.com' .
+2021-07-08 20:08:05 INFO  LoginPage:30 - website title is: 
+2021-07-08 20:18:19 INFO  Steps:31 - User Launch Chrome browser .
+2021-07-08 20:18:19 INFO  Steps:42 - User opens URL 'https://www.amazon.com' .
+2021-07-08 20:18:22 INFO  LoginPage:45 - moveToMouse .
+2021-07-08 20:24:09 INFO  LoginPage:30 - website title is: 
+2021-07-08 20:25:16 INFO  Steps:31 - User Launch Chrome browser .
+2021-07-08 20:25:16 INFO  Steps:42 - User opens URL 'https://www.amazon.com' .
+2021-07-08 20:25:18 INFO  LoginPage:45 - moveToMouse .
+2021-07-08 20:38:26 INFO  Steps:31 - User Launch Chrome browser .
+2021-07-08 20:38:26 INFO  Steps:42 - User opens URL 'https://www.amazon.com' .
+2021-07-08 20:38:28 INFO  LoginPage:48 - moveToMouse .
+2021-07-08 20:52:19 INFO  Steps:31 - User Launch Chrome browser .
+2021-07-08 20:52:19 INFO  Steps:42 - User opens URL 'https://www.amazon.com' .
+2021-07-08 20:52:21 INFO  LoginPage:37 - Account & Lists.
+2021-07-08 20:52:22 INFO  LoginPage:44 - click Sign in Button .
+2021-07-08 20:52:23 INFO  LoginPage:52 - User enters Email Password .
+2021-07-08 20:53:54 INFO  Steps:31 - User Launch Chrome browser .
+2021-07-08 20:53:54 INFO  Steps:42 - User opens URL 'https://www.amazon.com' .
+2021-07-08 20:53:56 INFO  LoginPage:37 - Account & Lists.
+2021-07-08 20:53:57 INFO  LoginPage:44 - click Sign in Button .
+2021-07-08 20:53:58 INFO  LoginPage:52 - User enters Email Password .
+2021-07-11 16:59:16 INFO  Steps:24 - User Launch Chrome browser .
+2021-07-11 16:59:16 INFO  Steps:33 - User opens URL 'https://www.amazon.com' .
+2021-07-11 16:59:16 INFO  Steps:41 - User mouse interactions.
+2021-07-11 16:59:16 INFO  LoginPage:34 - mouse interactions ?Pop up login Window.
+2021-07-11 17:12:33 INFO  Steps:24 - User Launch Chrome browser .
+2021-07-11 17:12:33 INFO  Steps:33 - User opens URL 'https://www.amazon.com' .
+2021-07-11 17:13:27 INFO  Steps:24 - User Launch Chrome browser .
+2021-07-11 17:13:27 INFO  Steps:33 - User opens URL 'https://www.amazon.com' .
+2021-07-11 17:18:01 INFO  Steps:27 - User Launch Chrome browser .
+2021-07-11 17:18:01 INFO  Steps:30 - starting 'Chrome' browser.
+2021-07-11 17:18:03 INFO  Steps:35 - Maximizing the browser.
+2021-07-11 17:18:03 INFO  Steps:45 - User opens URL 'https://www.amazon.com' .
+2021-07-11 17:19:20 INFO  Steps:27 - User Launch Chrome browser .
+2021-07-11 17:19:20 INFO  Steps:30 - starting 'Chrome' browser.
+2021-07-11 17:19:22 INFO  Steps:35 - Maximizing the browser.
+2021-07-11 17:19:22 INFO  Steps:45 - User opens URL 'https://www.amazon.com' .
+2021-07-11 17:23:54 INFO  Steps:27 - User Launch Chrome browser .
+2021-07-11 17:23:54 INFO  Steps:30 - starting 'Chrome' browser.
+2021-07-11 17:23:56 INFO  Steps:35 - Maximizing the browser.
+2021-07-11 17:23:56 INFO  Steps:45 - User opens URL 'https://www.amazon.com' .
+2021-07-11 17:27:23 INFO  Steps:28 - User Launch Chrome browser .
+2021-07-11 17:27:23 INFO  Steps:31 - starting 'Chrome' browser.
+2021-07-11 17:27:25 INFO  Steps:36 - Maximizing the browser.
+2021-07-11 17:27:25 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-11 17:31:20 INFO  Steps:27 - User Launch Chrome browser .
+2021-07-11 17:31:21 INFO  Steps:30 - starting 'Chrome' browser.
+2021-07-11 17:31:22 INFO  Steps:35 - Maximizing the browser.
+2021-07-11 17:31:22 INFO  Steps:45 - User opens URL 'https://www.amazon.com' .
+2021-07-11 17:32:03 INFO  Steps:27 - User Launch Chrome browser .
+2021-07-11 17:32:03 INFO  Steps:30 - starting 'Chrome' browser.
+2021-07-11 17:32:05 INFO  Steps:35 - Maximizing the browser.
+2021-07-11 17:32:05 INFO  Steps:45 - User opens URL 'https://www.amazon.com' .
+2021-07-11 20:45:13 INFO  Steps:27 - User Launch Chrome browser .
+2021-07-11 20:45:13 INFO  Steps:30 - starting 'Chrome' browser.
+2021-07-11 20:45:15 INFO  Steps:35 - Maximizing the browser.
+2021-07-11 20:45:15 INFO  Steps:45 - User opens URL 'https://www.amazon.com' .
+2021-07-11 20:46:37 INFO  Steps:27 - User Launch Chrome browser .
+2021-07-11 20:46:37 INFO  Steps:30 - starting 'Chrome' browser.
+2021-07-11 20:46:38 INFO  Steps:35 - Maximizing the browser.
+2021-07-11 20:46:39 INFO  Steps:45 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:02:07 INFO  Steps:27 - User Launch Chrome browser .
+2021-07-11 21:02:07 INFO  Steps:29 - starting 'Chrome' browser.
+2021-07-11 21:02:09 INFO  Steps:34 - Maximizing the browser.
+2021-07-11 21:02:09 INFO  Steps:42 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:02:42 INFO  Steps:27 - User Launch Chrome browser .
+2021-07-11 21:02:42 INFO  Steps:29 - starting 'Chrome' browser.
+2021-07-11 21:02:43 INFO  Steps:34 - Maximizing the browser.
+2021-07-11 21:02:43 INFO  Steps:42 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:16:55 INFO  Steps:22 - User Launch Chrome browser .
+2021-07-11 21:16:55 INFO  Steps:24 - starting 'Chrome' browser.
+2021-07-11 21:16:57 INFO  Steps:29 - Maximizing the browser.
+2021-07-11 21:16:57 INFO  Steps:37 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:19:59 INFO  Steps:22 - User Launch Chrome browser .
+2021-07-11 21:19:59 INFO  Steps:24 - starting 'Chrome' browser.
+2021-07-11 21:20:00 INFO  Steps:29 - Maximizing the browser.
+2021-07-11 21:20:00 INFO  Steps:37 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:21:13 INFO  Steps:22 - User Launch Chrome browser .
+2021-07-11 21:21:13 INFO  Steps:24 - starting 'Chrome' browser.
+2021-07-11 21:21:14 INFO  Steps:29 - Maximizing the browser.
+2021-07-11 21:22:36 INFO  Steps:21 - User Launch Chrome browser .
+2021-07-11 21:22:36 INFO  Steps:23 - starting 'Chrome' browser.
+2021-07-11 21:22:38 INFO  Steps:28 - Maximizing the browser.
+2021-07-11 21:24:45 INFO  Steps:21 - User Launch Chrome browser .
+2021-07-11 21:24:45 INFO  Steps:23 - starting 'Chrome' browser.
+2021-07-11 21:24:47 INFO  Steps:28 - Maximizing the browser.
+2021-07-11 21:35:23 INFO  Steps:22 - User Launch Chrome browser .
+2021-07-11 21:35:23 INFO  Steps:24 - starting 'Chrome' browser.
+2021-07-11 21:35:25 INFO  Steps:29 - Maximizing the browser.
+2021-07-11 21:35:25 INFO  Steps:37 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:36:56 INFO  Steps:22 - User Launch Chrome browser .
+2021-07-11 21:36:56 INFO  Steps:24 - starting 'Chrome' browser.
+2021-07-11 21:36:58 INFO  Steps:29 - Maximizing the browser.
+2021-07-11 21:36:58 INFO  Steps:37 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:40:33 INFO  Steps:22 - User Launch Chrome browser .
+2021-07-11 21:40:33 INFO  Steps:24 - starting 'Chrome' browser.
+2021-07-11 21:40:34 INFO  Steps:29 - Maximizing the browser.
+2021-07-11 21:40:34 INFO  Steps:37 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:41:15 INFO  Steps:22 - User Launch Chrome browser .
+2021-07-11 21:41:15 INFO  Steps:24 - starting 'Chrome' browser.
+2021-07-11 21:41:17 INFO  Steps:29 - Maximizing the browser.
+2021-07-11 21:41:17 INFO  Steps:37 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:41:48 INFO  Steps:22 - User Launch Chrome browser .
+2021-07-11 21:41:48 INFO  Steps:24 - starting 'Chrome' browser.
+2021-07-11 21:41:49 INFO  Steps:29 - Maximizing the browser.
+2021-07-11 21:41:49 INFO  Steps:37 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:50:44 INFO  Steps:24 - User Launch Chrome browser .
+2021-07-11 21:50:44 INFO  Steps:39 - User opens URL 'https://www.amazon.com' .
+2021-07-11 21:52:38 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 21:52:38 INFO  Steps:38 - User opens URL 'https://www.amazon.com' .
+2021-07-11 22:52:08 INFO  LoginPage:24 - starting 'Chrome' browser.
+2021-07-11 22:52:09 INFO  LoginPage:29 - Maximizing the browser.
+2021-07-11 22:52:10 INFO  Steps:22 - User Launch Chrome browser .
+2021-07-11 22:52:10 INFO  Steps:38 - User opens URL 'https://www.amazon.com' .
+2021-07-11 22:52:11 INFO  Steps:47 - User mouse interactions.
+2021-07-11 22:56:50 INFO  LoginPage:23 - starting 'Chrome' browser.
+2021-07-11 22:56:52 INFO  LoginPage:28 - Maximizing the browser.
+2021-07-11 22:56:52 INFO  Steps:22 - User Launch Chrome browser .
+2021-07-11 22:56:52 INFO  Steps:38 - User opens URL 'https://www.amazon.com' .
+2021-07-11 22:56:54 INFO  Steps:47 - User mouse interactions.
+2021-07-11 22:59:21 INFO  LoginPage:23 - starting 'Chrome' browser.
+2021-07-11 22:59:23 INFO  LoginPage:28 - Maximizing the browser.
+2021-07-11 22:59:23 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 22:59:23 INFO  Steps:39 - User opens URL 'https://www.amazon.com' .
+2021-07-11 22:59:24 INFO  Steps:48 - User mouse interactions.
+2021-07-11 23:03:11 INFO  LoginPage:23 - starting 'Chrome' browser.
+2021-07-11 23:03:12 INFO  LoginPage:28 - Maximizing the browser.
+2021-07-11 23:03:12 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:03:12 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:03:14 INFO  Steps:41 - User mouse interactions.
+2021-07-11 23:05:08 INFO  LoginPage:23 - starting 'Chrome' browser.
+2021-07-11 23:05:09 INFO  LoginPage:28 - Maximizing the browser.
+2021-07-11 23:05:09 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:05:09 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:05:11 INFO  Steps:41 - User mouse interactions.
+2021-07-11 23:07:01 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:07:02 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:07:03 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:07:03 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:07:05 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:07:05 INFO  Steps:41 - User mouse interactions.
+2021-07-11 23:07:47 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:07:49 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:07:49 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:07:49 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:07:50 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:09:18 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:09:19 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:09:19 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:09:19 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:09:21 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:09:21 INFO  Steps:41 - User mouse interactions.
+2021-07-11 23:09:37 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:09:38 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:09:38 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:09:38 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:09:40 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:09:40 INFO  Steps:41 - User mouse interactions.
+2021-07-11 23:12:10 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:12:12 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:12:12 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:12:12 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:12:13 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:12:13 INFO  Steps:41 - User mouse interactions.
+2021-07-11 23:12:14 INFO  LoginPage:61 - After Class ...
+2021-07-11 23:13:20 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:13:21 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:13:22 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:13:22 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:13:23 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:13:23 INFO  Steps:41 - User mouse interactions.
+2021-07-11 23:13:24 INFO  Steps:79 - User clean Up After All Test Methods.
+2021-07-11 23:13:24 INFO  LoginPage:61 - After Class ...
+2021-07-11 23:34:00 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:34:02 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:34:02 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:34:02 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:34:04 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:38:59 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:39:01 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:39:01 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:39:01 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:39:03 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:39:03 INFO  LoginPage:61 - Hello, Sign in
+2021-07-11 23:39:03 INFO  Steps:42 - User mouse interactions.
+2021-07-11 23:39:03 INFO  Steps:80 - User clean Up After All Test Methods.
+2021-07-11 23:39:03 INFO  LoginPage:72 - After Class ...
+2021-07-11 23:42:43 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:42:44 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:42:44 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:42:44 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:42:46 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:42:46 INFO  LoginPage:61 - Hello, Sign in
+2021-07-11 23:42:56 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:42:57 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:42:57 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:42:57 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:42:59 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:42:59 INFO  LoginPage:61 - Hello, Sign in
+2021-07-11 23:44:22 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:44:23 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:44:23 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:44:23 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:44:25 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:44:25 INFO  LoginPage:61 - Hello, Sign in
+2021-07-11 23:48:58 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:49:00 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:49:00 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:49:00 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:49:01 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:49:01 INFO  LoginPage:61 - Hello, Sign in
+2021-07-11 23:50:03 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:50:05 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:50:05 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:50:05 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:50:06 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:50:07 INFO  LoginPage:61 - Hello, Sign in
+2021-07-11 23:50:07 INFO  Steps:42 - User mouse interactions.
+2021-07-11 23:50:07 INFO  Steps:80 - User clean Up After All Test Methods.
+2021-07-11 23:50:07 INFO  LoginPage:76 - After Class ...
+2021-07-11 23:52:06 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-11 23:52:08 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-11 23:52:08 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-11 23:52:08 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-11 23:52:09 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-11 23:52:09 INFO  LoginPage:61 - no Login Sign TextHello, Sign in
+2021-07-11 23:52:09 INFO  Steps:42 - User mouse interactions.
+2021-07-11 23:52:10 INFO  Steps:80 - User clean Up After All Test Methods.
+2021-07-11 23:52:10 INFO  LoginPage:76 - After Class ...
+2021-07-12 00:11:27 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-12 00:11:29 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-12 00:11:29 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 00:11:29 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 00:11:30 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 00:11:30 INFO  LoginPage:61 - no Login Sign Text :Hello, Sign in
+2021-07-12 00:11:30 INFO  Steps:42 - User mouse interactions.
+2021-07-12 00:11:31 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 00:12:26 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-12 00:12:28 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-12 00:12:28 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 00:12:28 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 00:12:29 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 00:12:29 INFO  LoginPage:61 - no Login Sign Text :Hello, Sign in
+2021-07-12 00:12:29 INFO  Steps:42 - User mouse interactions.
+2021-07-12 00:12:30 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 00:12:39 INFO  Steps:81 - User clean Up After All Test Methods.
+2021-07-12 00:12:39 INFO  LoginPage:91 - After Class ...
+2021-07-12 00:19:22 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-12 00:19:24 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-12 00:19:24 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 00:19:24 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 00:19:25 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 00:19:25 INFO  LoginPage:61 - no Login Sign Text :Hello, Sign in
+2021-07-12 00:19:25 INFO  Steps:42 - User mouse interactions.
+2021-07-12 00:19:26 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 00:19:33 INFO  Steps:60 - click on login
+2021-07-12 00:19:33 INFO  LoginPage:88 - check Login Sign Text :Hello, Menusifu
+2021-07-12 00:19:33 INFO  Steps:84 - User clean Up After All Test Methods.
+2021-07-12 00:19:33 INFO  LoginPage:101 - After Class ...
+2021-07-12 00:22:36 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-12 00:22:38 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-12 00:22:38 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 00:22:38 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 00:22:39 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 00:22:39 INFO  LoginPage:61 - no Login Sign Text :Hello, Sign in
+2021-07-12 00:22:39 INFO  Steps:42 - User mouse interactions.
+2021-07-12 00:22:40 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 00:22:47 INFO  Steps:60 - click on login
+2021-07-12 00:22:47 INFO  LoginPage:88 - check Login Sign Text :Hello, Menusifu
+2021-07-12 00:22:47 INFO  Steps:84 - User clean Up After All Test Methods.
+2021-07-12 00:22:47 INFO  LoginPage:101 - After Class ...
+2021-07-12 00:24:25 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-12 00:24:26 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-12 00:24:26 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 00:24:26 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 00:24:28 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 00:24:28 INFO  LoginPage:61 - no Login Sign Text :Hello, Sign in
+2021-07-12 00:24:28 INFO  Steps:42 - User mouse interactions.
+2021-07-12 00:24:29 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 00:24:36 INFO  Steps:84 - User clean Up After All Test Methods.
+2021-07-12 00:24:36 INFO  LoginPage:101 - After Class ...
+2021-07-12 00:26:58 INFO  LoginPage:25 - starting 'Chrome' browser.
+2021-07-12 00:27:00 INFO  LoginPage:30 - Maximizing the browser.
+2021-07-12 00:27:00 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 00:27:00 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 00:27:01 INFO  LoginPage:40 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 00:27:02 INFO  LoginPage:61 - no Login Sign Text :Hello, Sign in
+2021-07-12 00:27:02 INFO  Steps:42 - User mouse interactions.
+2021-07-12 00:27:02 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 00:27:09 INFO  Steps:60 - click on login
+2021-07-12 00:27:09 INFO  LoginPage:88 - check Login Sign Text :Hello, Menusifu
+2021-07-12 00:27:09 INFO  Steps:84 - User clean Up After All Test Methods.
+2021-07-12 00:27:09 INFO  LoginPage:101 - After Class ...
+2021-07-12 01:00:48 INFO  LoginPage:31 - starting 'Chrome' browser.
+2021-07-12 01:00:49 INFO  LoginPage:36 - Maximizing the browser.
+2021-07-12 01:00:49 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 01:00:49 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 01:00:51 INFO  LoginPage:46 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 01:00:51 INFO  LoginPage:67 - no Login Sign Text :Hello, Sign in
+2021-07-12 01:00:51 INFO  Steps:42 - User mouse interactions.
+2021-07-12 01:00:52 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 01:00:59 INFO  Steps:60 - click on login
+2021-07-12 01:00:59 INFO  LoginPage:91 - check Login Sign Text :Hello, Menusifu
+2021-07-12 01:00:59 INFO  Steps:84 - User clean Up After All Test Methods.
+2021-07-12 01:00:59 INFO  LoginPage:115 - After Class ...
+2021-07-12 01:04:07 INFO  LoginPage:31 - starting 'Chrome' browser.
+2021-07-12 01:04:09 INFO  LoginPage:36 - Maximizing the browser.
+2021-07-12 01:04:09 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 01:04:09 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 01:04:11 INFO  LoginPage:46 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 01:04:11 INFO  LoginPage:67 - no Login Sign Text :Hello, Sign in
+2021-07-12 01:04:11 INFO  Steps:42 - User mouse interactions.
+2021-07-12 01:04:11 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 01:04:18 INFO  Steps:60 - click on login
+2021-07-12 01:04:18 INFO  LoginPage:91 - check Login Sign Text :Hello, Menusifu
+2021-07-12 01:04:18 INFO  Steps:77 - click on log out link.
+2021-07-12 01:10:44 INFO  LoginPage:31 - starting 'Chrome' browser.
+2021-07-12 01:10:45 INFO  LoginPage:36 - Maximizing the browser.
+2021-07-12 01:10:45 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 01:10:45 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 01:10:47 INFO  LoginPage:46 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 01:10:47 INFO  LoginPage:67 - no Login Sign Text :Hello, Sign in
+2021-07-12 01:10:47 INFO  Steps:42 - User mouse interactions.
+2021-07-12 01:10:48 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 01:10:55 INFO  Steps:60 - click on login
+2021-07-12 01:10:55 INFO  LoginPage:91 - check Login Sign Text :Hello, Menusifu
+2021-07-12 01:10:55 INFO  Steps:77 - click on log out link.
+2021-07-12 01:11:02 INFO  Steps:88 - User clean Up After All Test Methods.
+2021-07-12 01:11:02 INFO  LoginPage:119 - After Class ...
+2021-07-12 01:20:31 INFO  LoginPage:31 - starting 'Chrome' browser.
+2021-07-12 01:20:33 INFO  LoginPage:36 - Maximizing the browser.
+2021-07-12 01:20:33 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 01:20:33 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 01:20:34 INFO  LoginPage:46 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 01:20:34 INFO  LoginPage:67 - no Login Sign Text :Hello, Sign in
+2021-07-12 01:20:34 INFO  Steps:42 - User mouse interactions.
+2021-07-12 01:20:35 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 01:20:39 INFO  Steps:60 - click on login
+2021-07-12 01:20:39 INFO  LoginPage:90 - check Login Sign Text :Hello, Menusifu
+2021-07-12 01:20:39 INFO  Steps:69 - click on log out link.
+2021-07-12 01:20:46 INFO  Steps:76 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 01:22:10 INFO  LoginPage:31 - starting 'Chrome' browser.
+2021-07-12 01:22:12 INFO  LoginPage:36 - Maximizing the browser.
+2021-07-12 01:22:12 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 01:22:12 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 01:22:13 INFO  LoginPage:46 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 01:22:13 INFO  LoginPage:67 - no Login Sign Text :Hello, Sign in
+2021-07-12 01:22:13 INFO  Steps:42 - User mouse interactions.
+2021-07-12 01:22:14 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 01:22:18 INFO  Steps:60 - click on login
+2021-07-12 01:22:18 INFO  LoginPage:90 - check Login Sign Text :Hello, Menusifu
+2021-07-12 01:22:18 INFO  Steps:69 - click on log out link.
+2021-07-12 01:22:25 INFO  Steps:76 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 01:22:25 INFO  LoginPage:117 - website title is: Amazon Sign-In
+2021-07-12 01:22:25 INFO  Steps:84 - User clean Up After All Test Methods.
+2021-07-12 01:22:25 INFO  LoginPage:132 - After Class ...
+2021-07-12 01:25:22 INFO  LoginPage:31 - starting 'Chrome' browser.
+2021-07-12 01:25:24 INFO  LoginPage:36 - Maximizing the browser.
+2021-07-12 01:25:24 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 01:25:24 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 01:25:25 INFO  LoginPage:46 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 01:25:25 INFO  LoginPage:67 - no Login Sign Text :Hello, Sign in
+2021-07-12 01:25:25 INFO  Steps:42 - User mouse interactions.
+2021-07-12 01:25:26 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 01:25:30 INFO  Steps:60 - click on login
+2021-07-12 01:25:30 INFO  LoginPage:90 - check Login Sign Text :Hello, Menusifu
+2021-07-12 01:25:30 INFO  Steps:69 - click on log out link.
+2021-07-12 01:25:37 INFO  Steps:76 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 01:25:37 INFO  LoginPage:117 - website title is: Amazon Sign-In
+2021-07-12 01:25:37 INFO  Steps:84 - User clean Up After All Test Methods.
+2021-07-12 01:25:37 INFO  LoginPage:132 - After Class ...
+2021-07-12 17:42:35 INFO  LoginPage:31 - starting 'Chrome' browser.
+2021-07-12 17:42:38 INFO  LoginPage:36 - Maximizing the browser.
+2021-07-12 17:42:38 INFO  Steps:23 - User Launch Chrome browser .
+2021-07-12 17:42:38 INFO  Steps:32 - User opens URL 'https://www.amazon.com' .
+2021-07-12 17:42:40 INFO  LoginPage:46 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 17:42:40 INFO  LoginPage:67 - no Login Sign Text :Hello, Sign in
+2021-07-12 17:42:40 INFO  Steps:42 - User mouse interactions.
+2021-07-12 17:42:41 INFO  Steps:50 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 17:42:45 INFO  Steps:60 - click on login
+2021-07-12 17:42:45 INFO  LoginPage:90 - check Login Sign Text :Hello, Menusifu
+2021-07-12 17:42:45 INFO  Steps:69 - click on log out link.
+2021-07-12 17:42:52 INFO  Steps:76 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 17:42:52 INFO  LoginPage:117 - website title is: Amazon Sign-In
+2021-07-12 17:42:52 INFO  Steps:84 - User clean Up After All Test Methods.
+2021-07-12 17:42:52 INFO  LoginPage:132 - After Class ...
+2021-07-12 18:00:31 INFO  LoginPage:31 - starting 'Chrome' browser.
+2021-07-12 19:13:40 INFO  LoginPage:31 - starting 'Chrome' browser.
+2021-07-12 19:22:54 INFO  Steps:27 - starting 'Chrome' browser.
+2021-07-12 19:22:56 INFO  Steps:32 - Maximizing the browser.
+2021-07-12 19:22:56 INFO  Steps:36 - User Launch Chrome browser .
+2021-07-12 19:22:56 INFO  Steps:45 - User opens URL 'https://www.amazon.com' .
+2021-07-12 19:25:44 INFO  Steps:27 - starting 'Chrome' browser.
+2021-07-12 19:25:45 INFO  Steps:32 - Maximizing the browser.
+2021-07-12 19:25:45 INFO  Steps:36 - User Launch Chrome browser .
+2021-07-12 19:25:45 INFO  Steps:45 - User opens URL 'https://www.amazon.com' .
+2021-07-12 19:31:44 INFO  Steps:29 - starting 'Chrome' browser.
+2021-07-12 19:31:46 INFO  Steps:34 - Maximizing the browser.
+2021-07-12 19:31:46 INFO  Steps:38 - User Launch Chrome browser .
+2021-07-12 19:31:46 INFO  Steps:47 - User opens URL 'https://www.amazon.com' .
+2021-07-12 19:31:48 INFO  LoginPage:49 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 19:31:48 INFO  LoginPage:70 - no Login Sign Text :Hello, Sign in
+2021-07-12 19:31:48 INFO  Steps:57 - User mouse interactions.
+2021-07-12 19:32:33 INFO  Steps:29 - starting 'Chrome' browser.
+2021-07-12 19:32:34 INFO  Steps:34 - Maximizing the browser.
+2021-07-12 19:32:34 INFO  Steps:38 - User Launch Chrome browser .
+2021-07-12 19:32:34 INFO  Steps:47 - User opens URL 'https://www.amazon.com' .
+2021-07-12 19:32:36 INFO  LoginPage:49 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 19:32:37 INFO  LoginPage:70 - no Login Sign Text :Hello, Sign in
+2021-07-12 19:32:37 INFO  Steps:57 - User mouse interactions.
+2021-07-12 19:33:43 INFO  Steps:29 - starting 'Chrome' browser.
+2021-07-12 19:33:44 INFO  Steps:34 - Maximizing the browser.
+2021-07-12 19:33:44 INFO  Steps:38 - User Launch Chrome browser .
+2021-07-12 19:33:44 INFO  Steps:47 - User opens URL 'https://www.amazon.com' .
+2021-07-12 19:33:46 INFO  LoginPage:49 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 19:33:46 INFO  LoginPage:70 - no Login Sign Text :Hello, Sign in
+2021-07-12 19:33:46 INFO  Steps:57 - User mouse interactions.
+2021-07-12 19:33:47 INFO  Steps:65 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 19:35:50 INFO  Steps:29 - starting 'Chrome' browser.
+2021-07-12 19:35:52 INFO  Steps:34 - Maximizing the browser.
+2021-07-12 19:35:52 INFO  Steps:38 - User Launch Chrome browser .
+2021-07-12 19:35:52 INFO  Steps:47 - User opens URL 'https://www.amazon.com' .
+2021-07-12 19:35:54 INFO  LoginPage:46 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 19:35:54 INFO  LoginPage:67 - no Login Sign Text :Hello, Sign in
+2021-07-12 19:35:54 INFO  Steps:57 - User mouse interactions.
+2021-07-12 19:35:55 INFO  Steps:65 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 19:35:59 INFO  Steps:75 - click on login
+2021-07-12 19:35:59 INFO  LoginPage:90 - check Login Sign Text :Hello, Menusifu
+2021-07-12 19:35:59 INFO  Steps:84 - click on log out link.
+2021-07-12 19:36:06 INFO  Steps:91 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 19:36:06 INFO  LoginPage:117 - website title is: Amazon Sign-In
+2021-07-12 19:36:06 INFO  Steps:99 - User clean Up After All Test Methods.
+2021-07-12 19:36:06 INFO  LoginPage:132 - After Class ...
+2021-07-12 19:36:56 INFO  Steps:29 - starting 'Chrome' browser.
+2021-07-12 19:36:58 INFO  Steps:34 - Maximizing the browser.
+2021-07-12 19:36:58 INFO  Steps:38 - User Launch Chrome browser .
+2021-07-12 19:36:58 INFO  Steps:47 - User opens URL 'https://www.amazon.com' .
+2021-07-12 19:37:00 INFO  LoginPage:46 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 19:37:00 INFO  LoginPage:67 - no Login Sign Text :Hello, Sign in
+2021-07-12 19:37:00 INFO  Steps:57 - User mouse interactions.
+2021-07-12 19:37:01 INFO  Steps:65 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 19:37:05 INFO  Steps:75 - click on login
+2021-07-12 19:37:05 INFO  LoginPage:90 - check Login Sign Text :Hello, Menusifu
+2021-07-12 19:37:05 INFO  Steps:84 - click on log out link.
+2021-07-12 19:37:12 INFO  Steps:91 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 19:37:12 INFO  LoginPage:117 - website title is: Amazon Sign-In
+2021-07-12 19:37:12 INFO  Steps:99 - User clean Up After All Test Methods.
+2021-07-12 19:37:12 INFO  LoginPage:132 - After Class ...
+2021-07-12 19:58:11 INFO  Steps:29 - starting 'Chrome' browser.
+2021-07-12 19:58:12 INFO  Steps:34 - Maximizing the browser.
+2021-07-12 19:58:12 INFO  Steps:38 - User Launch Chrome browser .
+2021-07-12 19:58:12 INFO  Steps:47 - User opens URL 'https://www.amazon.com' .
+2021-07-12 19:58:14 INFO  LoginPage:33 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 19:58:14 INFO  LoginPage:53 - no Login Sign Text :Hello, Sign in
+2021-07-12 19:58:14 INFO  Steps:57 - User mouse interactions.
+2021-07-12 19:58:22 INFO  Steps:65 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 19:59:02 INFO  Steps:29 - starting 'Chrome' browser.
+2021-07-12 19:59:04 INFO  Steps:34 - Maximizing the browser.
+2021-07-12 19:59:04 INFO  Steps:38 - User Launch Chrome browser .
+2021-07-12 19:59:04 INFO  Steps:47 - User opens URL 'https://www.amazon.com' .
+2021-07-12 19:59:05 INFO  LoginPage:33 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 19:59:05 INFO  LoginPage:53 - no Login Sign Text :Hello, Sign in
+2021-07-12 19:59:05 INFO  Steps:57 - User mouse interactions.
+2021-07-12 20:00:14 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 20:00:16 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 20:00:16 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 20:00:16 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 20:00:18 INFO  LoginPage:33 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 20:00:18 INFO  LoginPage:53 - no Login Sign Text :Hello, Sign in
+2021-07-12 20:00:18 INFO  Steps:56 - User mouse interactions.
+2021-07-12 20:00:19 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 20:00:23 INFO  Steps:74 - click on login
+2021-07-12 20:00:23 INFO  LoginPage:76 - check Login Sign Text :Hello, Menusifu
+2021-07-12 20:00:23 INFO  Steps:83 - click on log out link.
+2021-07-12 20:01:03 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 20:01:04 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 20:01:04 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 20:01:04 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 20:01:06 INFO  LoginPage:33 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 20:01:06 INFO  LoginPage:53 - no Login Sign Text :Hello, Sign in
+2021-07-12 20:01:06 INFO  Steps:56 - User mouse interactions.
+2021-07-12 20:01:07 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 20:01:11 INFO  Steps:74 - click on login
+2021-07-12 20:01:12 INFO  LoginPage:76 - check Login Sign Text :Hello, Menusifu
+2021-07-12 20:01:12 INFO  Steps:83 - click on log out link.
+2021-07-12 20:01:18 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 20:01:18 INFO  LoginPage:100 - website title is: Amazon Sign-In
+2021-07-12 20:01:18 INFO  Steps:98 - User clean Up After All Test Methods.
+2021-07-12 20:01:18 INFO  LoginPage:110 - After Class ...
+2021-07-12 20:03:48 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 20:24:51 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 20:24:52 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 20:24:53 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 20:24:53 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 20:24:55 INFO  LoginPage:33 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 20:24:55 INFO  LoginPage:53 - no Login Sign Text :Hello, Sign in
+2021-07-12 20:24:55 INFO  Steps:56 - User mouse interactions.
+2021-07-12 20:24:56 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 20:25:00 INFO  Steps:74 - click on login
+2021-07-12 20:25:00 INFO  LoginPage:76 - check Login Sign Text :Hello, Menusifu
+2021-07-12 20:25:00 INFO  Steps:83 - click on log out link.
+2021-07-12 20:25:07 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 20:25:07 INFO  LoginPage:100 - website title is: Amazon Sign-In
+2021-07-12 20:25:07 INFO  Steps:98 - User clean Up After All Test Methods.
+2021-07-12 20:25:07 INFO  LoginPage:110 - After Class ...
+2021-07-12 21:27:16 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 21:37:59 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 21:38:00 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 21:38:01 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 21:38:01 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 21:38:02 INFO  LoginPage:33 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 21:38:02 INFO  LoginPage:53 - no Login Sign Text :Hello, Sign in
+2021-07-12 21:38:03 INFO  Steps:56 - User mouse interactions.
+2021-07-12 21:38:04 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 21:38:08 INFO  Steps:74 - click on login
+2021-07-12 21:38:09 INFO  LoginPage:76 - check Login Sign Text :Hello, Menusifu
+2021-07-12 21:38:09 INFO  Steps:83 - click on log out link.
+2021-07-12 21:38:16 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 21:38:16 INFO  LoginPage:100 - website title is: Amazon Sign-In
+2021-07-12 21:38:16 INFO  Steps:98 - User clean Up After All Test Methods.
+2021-07-12 21:38:16 INFO  LoginPage:110 - After Class ...
+2021-07-12 21:42:49 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 21:42:51 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 21:42:51 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 21:42:51 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 21:42:53 INFO  LoginPage:33 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 21:42:53 INFO  LoginPage:53 - no Login Sign Text :Hello, Sign in
+2021-07-12 21:42:53 INFO  Steps:56 - User mouse interactions.
+2021-07-12 21:42:54 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 21:43:00 INFO  Steps:74 - click on login
+2021-07-12 21:43:00 INFO  LoginPage:76 - check Login Sign Text :Hello, Menusifu
+2021-07-12 21:43:00 INFO  Steps:83 - click on log out link.
+2021-07-12 21:43:17 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 21:44:18 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 21:47:15 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 21:47:17 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 21:47:17 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 21:47:17 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 21:47:19 INFO  LoginPage:33 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 21:47:19 INFO  LoginPage:53 - no Login Sign Text :Hello, Sign in
+2021-07-12 21:47:19 INFO  Steps:56 - User mouse interactions.
+2021-07-12 21:47:20 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 21:47:24 INFO  Steps:74 - click on login
+2021-07-12 21:47:24 INFO  LoginPage:76 - check Login Sign Text :Hello, Menusifu
+2021-07-12 21:47:24 INFO  Steps:83 - click on log out link.
+2021-07-12 21:47:31 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 21:47:31 INFO  LoginPage:100 - website title is: Amazon Sign-In
+2021-07-12 21:47:31 INFO  Steps:98 - User clean Up After All Test Methods.
+2021-07-12 21:47:31 INFO  LoginPage:110 - After Class ...
+2021-07-12 21:56:58 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 21:57:53 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 21:57:55 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 21:57:55 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 21:57:55 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 21:57:56 INFO  LoginPage:23 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 21:57:57 INFO  LoginPage:43 - no Login Sign Text :Hello, Sign in
+2021-07-12 21:57:57 INFO  Steps:56 - User mouse interactions.
+2021-07-12 21:57:58 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 21:58:02 INFO  Steps:74 - click on login
+2021-07-12 21:58:02 INFO  LoginPage:66 - check Login Sign Text :Hello, Menusifu
+2021-07-12 21:58:02 INFO  Steps:83 - click on log out link.
+2021-07-12 21:58:09 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 21:58:09 INFO  LoginPage:86 - website title is: Amazon Sign-In
+2021-07-12 21:58:09 INFO  Steps:98 - User clean Up After All Test Methods.
+2021-07-12 21:58:09 INFO  LoginPage:95 - After Class ...
+2021-07-12 22:09:31 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 22:09:33 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 22:09:33 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 22:09:33 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 22:09:35 INFO  LoginPage:23 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 22:09:35 INFO  LoginPage:43 - no Login Sign Text :Hello, Sign in
+2021-07-12 22:09:35 INFO  Steps:56 - User mouse interactions.
+2021-07-12 22:09:36 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 22:09:40 INFO  Steps:74 - click on login
+2021-07-12 22:09:40 INFO  LoginPage:66 - check Login Sign Text :Hello, Menusifu
+2021-07-12 22:09:40 INFO  Steps:83 - click on log out link.
+2021-07-12 22:09:47 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 22:09:47 INFO  LoginPage:86 - website title is: Amazon Sign-In
+2021-07-12 22:09:47 INFO  Steps:98 - User clean Up After All Test Methods.
+2021-07-12 22:09:47 INFO  LoginPage:95 - After Class ...
+2021-07-12 22:11:48 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 22:11:49 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 22:11:49 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 22:11:49 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 22:11:51 INFO  LoginPage:23 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 22:11:51 INFO  LoginPage:43 - no Login Sign Text :Hello, Sign in
+2021-07-12 22:11:52 INFO  Steps:56 - User mouse interactions.
+2021-07-12 22:11:53 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 22:11:57 INFO  Steps:74 - click on login
+2021-07-12 22:11:57 INFO  LoginPage:66 - check Login Sign Text :Hello, Menusifu
+2021-07-12 22:11:57 INFO  Steps:83 - click on log out link.
+2021-07-12 22:12:04 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 22:12:04 INFO  LoginPage:86 - website title is: Amazon Sign-In
+2021-07-12 22:12:04 INFO  Steps:98 - User clean Up After All Test Methods.
+2021-07-12 22:12:04 INFO  LoginPage:95 - After Class ...
+2021-07-12 22:29:46 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 22:29:47 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 22:29:47 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 22:29:47 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 22:29:49 INFO  LoginPage:23 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 22:29:49 INFO  LoginPage:43 - no Login Sign Text :Hello, Sign in
+2021-07-12 22:29:49 INFO  Steps:56 - User mouse interactions.
+2021-07-12 22:29:50 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 22:29:54 INFO  Steps:74 - click on login
+2021-07-12 22:29:54 INFO  LoginPage:66 - check Login Sign Text :Hello, Menusifu
+2021-07-12 22:29:54 INFO  Steps:83 - click on log out link.
+2021-07-12 22:30:01 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 22:30:01 INFO  LoginPage:86 - website title is: Amazon Sign-In
+2021-07-12 22:30:01 INFO  Steps:98 - User clean Up After All Test Methods.
+2021-07-12 22:30:01 INFO  LoginPage:95 - After Class ...
+2021-07-12 22:31:41 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-12 22:31:43 INFO  Steps:33 - Maximizing the browser.
+2021-07-12 22:31:43 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-12 22:31:43 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-12 22:31:44 INFO  LoginPage:23 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-12 22:31:45 INFO  LoginPage:43 - no Login Sign Text :Hello, Sign in
+2021-07-12 22:31:45 INFO  Steps:56 - User mouse interactions.
+2021-07-12 22:31:46 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-12 22:31:50 INFO  Steps:74 - click on login
+2021-07-12 22:31:50 INFO  LoginPage:66 - check Login Sign Text :Hello, Menusifu
+2021-07-12 22:31:50 INFO  Steps:83 - click on log out link.
+2021-07-12 22:31:57 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-12 22:31:57 INFO  LoginPage:86 - website title is: Amazon Sign-In
+2021-07-12 22:31:57 INFO  Steps:98 - User clean Up After All Test Methods.
+2021-07-12 22:31:57 INFO  LoginPage:95 - After Class ...
+2021-07-13 21:38:22 INFO  Steps:28 - starting 'Chrome' browser.
+2021-07-13 21:38:23 INFO  Steps:33 - Maximizing the browser.
+2021-07-13 21:38:23 INFO  Steps:37 - User Launch Chrome browser .
+2021-07-13 21:38:23 INFO  Steps:46 - User opens URL 'https://www.amazon.com' .
+2021-07-13 21:38:25 INFO  LoginPage:23 - website title is: Amazon.com. Spend less. Smile more.
+2021-07-13 21:38:25 INFO  LoginPage:43 - no Login Sign Text :Hello, Sign in
+2021-07-13 21:38:25 INFO  Steps:56 - User mouse interactions.
+2021-07-13 21:38:26 INFO  Steps:64 - User enters Email as 'masihuti.hamiti@menusifu.com' and Password as 'Menusifu@67886788'
+2021-07-13 21:38:31 INFO  Steps:74 - click on login
+2021-07-13 21:38:31 INFO  LoginPage:66 - check Login Sign Text :Hello, Menusifu
+2021-07-13 21:38:31 INFO  Steps:83 - click on log out link.
+2021-07-13 21:38:38 INFO  Steps:90 - Page Title should be 'Amazon Sign-In'.
+2021-07-13 21:38:38 INFO  LoginPage:86 - website title is: Amazon Sign-In
+2021-07-13 21:38:38 INFO  Steps:98 - User clean Up After All Test Methods.
+2021-07-13 21:38:38 INFO  LoginPage:95 - After Class ...
